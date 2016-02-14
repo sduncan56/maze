@@ -1,0 +1,9 @@
+
+
+bin
+cocos2d
+proj.*
+Resources
+*.txt
+*.xcf
+*.odt
